@@ -37,11 +37,11 @@
 
 4. **Use clean traversal payload**
 
+```
 ../../../../etc/passwd
+```
 
-markdown
-Copy
-Edit
+
 
 5. **URL encode the payload once**  
 - Result:
