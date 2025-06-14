@@ -67,14 +67,6 @@
   ```
 ---
 
-### 💡 What I Learned
-- Application sanitizes traversal sequences **before processing the input**.
-- Basic and recursive payloads are stripped early — only **double encoding** works.
-- URL encoding tricks can bypass flawed sanitization routines.
-- Reinforced the importance of **server-side input validation**, not just client-side filters.
-
----
-
 ### 🔒 Remediation
 - Sanitize and validate user input server-side.
 - Apply **deep decoding** detection to identify malicious inputs.
@@ -82,7 +74,3 @@
 - Avoid exposing URLs for internal file access.
 
 ---
-
-### 📌 Notes
-- This lab inspired me to build a dedicated GitHub repo with common traversal payloads — from absolute to recursive and encoded variants.
-- Learned to use Burp Suite Encoder effectively.
