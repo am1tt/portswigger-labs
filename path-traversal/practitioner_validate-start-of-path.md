@@ -1,6 +1,6 @@
 ## 🧪 Lab: File Path Traversal - Validation of Start of Path  
 **Level**: Practitioner  
-**Date**: June 14, 2025  
+**Date**: June 15, 2025  
 **Goal**: Read `/etc/passwd` even when the application validates the starting path.
 
 ---
