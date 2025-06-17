@@ -1,4 +1,4 @@
-🧪 Lab: OS Command Injection - Simple Case  
+## 🧪 Lab: OS Command Injection - Simple Case  
 **Level**: Apprentice  
 **Date**: June 17, 2025  
 **Goal**: Exploit a basic OS command injection vulnerability to run arbitrary system commands.
