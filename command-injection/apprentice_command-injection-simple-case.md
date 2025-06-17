@@ -1,4 +1,4 @@
-echo "## 🧪 Lab: OS Command Injection - Simple Case  
+🧪 Lab: OS Command Injection - Simple Case  
 **Level**: Apprentice  
 **Date**: June 17, 2025  
 **Goal**: Exploit a basic OS command injection vulnerability to run arbitrary system commands.
@@ -61,4 +61,3 @@ productId=2&storeId=1|whoami
 - Use language-specific secure system call methods  
 - Validate and sanitize all input (especially IDs and parameters)  
 - Implement strict allow-lists for inputs and avoid exposing internal logic  
-" > "os-command-injection-simple-case.md"
