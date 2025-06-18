@@ -1,5 +1,5 @@
 ## 🧪 Lab: Blind OS Command Injection with Time Delays  
-**Level**: Apprentice  
+**Level**: Practitioner  
 **Date**: June 18, 2025  
 **Goal**: Exploit a blind OS command injection vulnerability by using time delays to confirm successful command execution.
 
