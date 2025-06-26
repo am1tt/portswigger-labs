@@ -1,7 +1,7 @@
 # 🧪 Lab: Low-level Logic Flaw
 
 **Level:** Practitioner  
-**Date:** June 24, 2025  
+**Date:** June 26, 2025  
 **Goal:** Exploit a quantity-based price calculation flaw using controlled logic flow, null payloads, and math.
 
 ---
