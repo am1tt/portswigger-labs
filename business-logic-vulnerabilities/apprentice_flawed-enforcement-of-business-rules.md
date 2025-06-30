@@ -1,7 +1,6 @@
-```
 ## 🧪 Lab: Flawed Enforcement of Business Rules  
 **Level**: Apprentice  
-**Date**: June 29, 2025  
+**Date**: June 30, 2025  
 **Goal**: Abuse flawed coupon logic to purchase a leather jacket without paying full price by stacking hidden discount codes.
 
 ---
@@ -61,4 +60,4 @@ coupon=NEWCUST5
 - Enforce validation server-side to prevent unintended combinations.  
 - Avoid exposing hidden promos via unauthenticated UI flows.  
 - Track abnormal discount stacking or coupon abuse patterns.  
-```
+
