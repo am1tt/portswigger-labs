@@ -1,8 +1,7 @@
-```
 ## 🧪 Lab: Weak Isolation of Dual-Use Endpoints  
 **Level**: Practitioner  
-**Date**: June 30, 2025  
-**Goal**: Exploit insufficient separation in account-related endpoints to reset the administrator’s password.
+**Date**: July 1, 2025  
+**Goal**: Exploit insufficient separation in account-related endpoints to reset the administrator’s password , access adminstrator and delete the mentioned account
 
 ---
 
@@ -58,5 +57,5 @@ username=administrator&new-password-1=test&new-password-2=test
 - Hash and sanitize all exposed endpoint URLs.  
 - Avoid exposing or accepting unnecessary parameters, especially in sensitive endpoints.  
 - Disallow changing usernames within password or email update forms.  
-- Require MFA and signed, expiring tokens tied to registered email/username for any critical actions like password or email updates.  
-```
+- Require MFA and signed, expiring tokens tied to registered email/username for any critical      actions like password or email updates.  
+
