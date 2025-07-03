@@ -1,6 +1,6 @@
 ## 🧪 Lab: Authentication Bypass via Flawed State Machine  
 **Level**: Practitioner  
-**Date**: July , 2025  
+**Date**: July 3, 2025  
 **Goal**: Bypass the role-selection step after login to gain unintended administrator access and delete the target user.
 
 ---
