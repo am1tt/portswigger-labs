@@ -1,4 +1,3 @@
-```cli
 ## 📤 Lab: Information Disclosure in Error Messages  
 **Level**: Apprentice  
 **Date**: July 5, 2025  
@@ -63,4 +62,3 @@ Cookie: session=xyz123
 - Hash and encode all sensitive parameters exposed in the URL to reduce guessability.  
 - Implement **string validation and sanitization** for any user-supplied query values.  
 - Ensure exception messages are encrypted, filtered, or suppressed in production environments.  
-```
