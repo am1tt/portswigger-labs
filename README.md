@@ -17,7 +17,7 @@ This repository contains practical write-ups for labs based on **real-world web 
 
 ## 📚 Lab Topics (In Progress)
 
-- ✅ Business Logic Vulnerabilities
+- ✅ Information Disclosure
 - 🔜 SQL Injection  
 - 🔜 Authentication  
 - 🔜 Access Control
