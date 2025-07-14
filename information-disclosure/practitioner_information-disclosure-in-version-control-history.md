@@ -1,7 +1,6 @@
-```
 ## 🕵️ Lab: Information Disclosure in Version Control History  
 **Level**: Practitioner  
-**Date**: July 10, 2025  
+**Date**: July 14, 2025  
 **Goal**: Gain unauthorized access using leaked credentials discovered through exposed Git version control history.
 
 ---
@@ -81,4 +80,4 @@ No direct payload used — exploitation was performed via Git metadata access an
 - 🔐 Store secrets using environment variables or secure secrets managers — **never hardcode them**.  
 - 🔍 Regularly scan public assets for secrets using tools like `truffleHog`, `git-secrets`, or GitHub’s secret scanning.  
 - 📦 Always deploy from clean, compiled, or packaged builds — never directly from a Git-tracked working directory.
-```
+
