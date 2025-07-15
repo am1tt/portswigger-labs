@@ -17,11 +17,9 @@ This repository contains practical write-ups for labs based on **real-world web 
 
 ## 📚 Lab Topics (In Progress)
 
-- ✅ Information Disclosure
+- ✅ Access Control
 - 🔜 SQL Injection  
 - 🔜 Authentication  
-- 🔜 Access Control
-
 ---
 
 ## 🔎 How to Read the Files
