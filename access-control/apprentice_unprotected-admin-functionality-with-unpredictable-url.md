@@ -1,6 +1,6 @@
 ## 🕵️ Lab: Unprotected Admin Functionality with Unpredictable URL  
 **Level**: Apprentice  
-**Date**: July 25, 2025  
+**Date**: July 28, 2025  
 **Goal**: Access an undisclosed admin panel by discovering its unpredictable location in the client-side code and delete the user `carlos`.
 
 ---
@@ -61,6 +61,3 @@ Host: 0a83002203cef21480707116001d0032.web-security-academy.net
 - 🚫 Use proper role-based authentication, session validation, and CSRF tokens for all critical operations.  
 - 👁️ Employ penetration testing and source code review to identify such logic leaks before going live.
 
-```  
-
-Let me know if you’d like the matching LinkedIn post or GitHub front-matter block for this!
