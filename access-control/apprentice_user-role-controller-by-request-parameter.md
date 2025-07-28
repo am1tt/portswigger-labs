@@ -1,6 +1,6 @@
 ## 🛡️ Lab: User Role Controlled by Request Parameter  
 **Level**: Apprentice  
-**Date**: July 25, 2025  
+**Date**: July 28, 2025  
 **Goal**: Bypass role-based access control by manipulating a client-side cookie and gaining unauthorized access to the admin panel.
 
 ---
@@ -27,11 +27,11 @@
    Observed the following header in the response:
 
    HTTP/1.1 200 OK  
-   Set-Cookie: Admin=false; Secure  
+   Set-Cookie: `Admin=false;`; Secure  
 
 5. Modified the intercepted response before forwarding it to:
 
-   Set-Cookie: Admin=true; Secure  
+   Set-Cookie: `Admin=true;` Secure  
 
 6. Forwarded the modified response to the browser.
 
