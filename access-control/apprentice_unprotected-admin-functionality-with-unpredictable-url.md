@@ -1,6 +1,6 @@
 ## 🕵️ Lab: Unprotected Admin Functionality with Unpredictable URL  
 **Level**: Apprentice  
-**Date**: July 28, 2025  
+**Date**: July 25, 2025  
 **Goal**: Access an undisclosed admin panel by discovering its unpredictable location in the client-side code and delete the user `carlos`.
 
 ---
