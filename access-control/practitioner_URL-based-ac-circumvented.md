@@ -1,6 +1,6 @@
 ## 🛡️ Lab: URL-based access control can be circumvented  
 **Level**: Practitioner  
-**Date**: July 25, 2025  
+**Date**: July 5, 2025  
 **Goal**: Gain access to a protected admin page by bypassing frontend access controls using request header manipulation.
 
 ---
